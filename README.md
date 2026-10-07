@@ -8,6 +8,7 @@ These guides are maintained by Springify, the team behind Bulk Price Editor for 
 
 | Guide | What it helps you do |
 | --- | --- |
+| [Shopify Black Friday Tips for 2026](guides/shopify-black-friday-tips-2026.md) | Use patterns from 600+ campaigns in 2025 to plan timing, targeting, price reductions, and restoration. |
 | [How to Run a Shopify Sale](guides/how-to-run-shopify-sale.md) | Set sale prices, choose variants, preview changes, and restore original values. |
 | [Shopify Compare-at Price](guides/shopify-compare-at-price.md) | Calculate reference prices and troubleshoot variant, theme, and market differences. |
 | [How to Schedule Shopify Sale Prices](guides/schedule-shopify-sale-prices.md) | Review a preview, create a scheduled task, and plan automatic restoration. |
